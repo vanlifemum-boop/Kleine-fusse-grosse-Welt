@@ -1,0 +1,159 @@
+{
+  "collection": "Reisemomente",
+  "images": [
+    {
+      "file": "pisa-mit-dir.jpg",
+      "place": "Pisa",
+      "alt": "Gemeinsam vor dem schiefen Turm von Pisa",
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "file": "rom-kolosseum-mit-dir.jpg",
+      "place": "Rom",
+      "alt": "Unsere gemeinsame Zeit am Kolosseum",
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "file": "rom-kolosseum.jpg",
+      "place": "Rom",
+      "alt": "Ein Blick auf die alten Mauern des Kolosseums",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "file": "paris-louvre.jpg",
+      "place": "Paris",
+      "alt": "Ein gemeinsamer Moment vor der Pyramide des Louvre",
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "file": "paris-eiffelturm.jpg",
+      "place": "Paris",
+      "alt": "Thadeo vor dem Eiffelturm",
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "file": "paris-montmartre.jpg",
+      "place": "Paris",
+      "alt": "Gemeinsam unterwegs in Montmartre",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "file": "versailles-mit-dir.jpg",
+      "place": "Versailles",
+      "alt": "Unser Spaziergang durch Versailles",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "file": "florenz-schmucktisch.jpg",
+      "place": "Florenz",
+      "alt": "Kleine Schmuckstücke an einem Tisch in Florenz",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "file": "genua-piratenschiff-entdecken.jpg",
+      "place": "Genua",
+      "alt": "Thadeo entdeckt das Piratenschiff im Hafen",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "file": "genua-piratenschiff-mit-dir.jpg",
+      "place": "Genua",
+      "alt": "Unsere Zeit auf dem Piratenschiff",
+      "width": 674,
+      "height": 1200
+    },
+    {
+      "file": "venedig-canal-grande.jpg",
+      "place": "Venedig",
+      "alt": "Häuser und Wasser am Canal Grande",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "file": "venedig-gondeln.jpg",
+      "place": "Venedig",
+      "alt": "Gondeln in einem venezianischen Kanal",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "file": "hamburg-am-hafen.jpg",
+      "place": "Hamburg",
+      "alt": "Thadeo schaut auf die Schiffe im Hamburger Hafen",
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "file": "sylt-mit-dir.jpg",
+      "place": "Sylt",
+      "alt": "Ein gemeinsamer Inselmoment im Nordseewind",
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "file": "sylt-aquarium.jpg",
+      "place": "Sylt",
+      "alt": "Thadeo entdeckt die Unterwasserwelt im Aquarium",
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "file": "legoland-eingang.jpg",
+      "place": "Legoland",
+      "alt": "Der Eingang zu einem Tag voller kleiner Bauwelten",
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "file": "legoland-burg.jpg",
+      "place": "Legoland",
+      "alt": "Thadeo zwischen den großen Legofiguren",
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "file": "muenchehagen-dinosaurier.jpg",
+      "place": "Dinosaurierpark Münchehagen",
+      "alt": "Dinosaurier vor der Museumshalle in Münchehagen",
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "file": "muenchehagen-thadeo.jpg",
+      "place": "Dinosaurierpark Münchehagen",
+      "alt": "Thadeo vor einem großen Dinosaurierschädel",
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "file": "gdansk-am-wasser.jpg",
+      "place": "Gdańsk",
+      "alt": "Thadeo am Steuerrad mit Blick auf Gdańsk",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "file": "salzburg-hellbrunn.jpg",
+      "place": "Salzburg",
+      "alt": "Unsere gemeinsame Zeit in Hellbrunn",
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "file": "salzburg-winter.jpg",
+      "place": "Salzburg",
+      "alt": "Ein gemeinsamer Moment während unserer Winterreise",
+      "width": 675,
+      "height": 1200
+    }
+  ]
+}
