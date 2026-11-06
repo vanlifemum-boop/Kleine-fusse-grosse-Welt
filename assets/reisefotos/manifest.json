@@ -171,15 +171,15 @@
     },
     {
       "file": "italien-pool-meerblick.jpg",
-      "place": "Italien",
+      "place": "Ligurische Küste",
       "alt": "Thadeo schwimmt im Pool mit Blick aufs Meer",
       "width": 373,
       "height": 1200
     },
     {
-      "file": "italien-spiegel-selfie.jpg",
-      "place": "Italien",
-      "alt": "Ein Spiegel-Selfie von Mama unterwegs in Italien",
+      "file": "genua-galata-museum-spiegel-selfie.jpg",
+      "place": "Genua",
+      "alt": "Ein Spiegel-Selfie von Mama im Galata-Meeresmuseum",
       "width": 674,
       "height": 1200
     },
@@ -241,21 +241,21 @@
     },
     {
       "file": "herbstreise-see-thadeo.jpg",
-      "place": "Herbstreise am See",
+      "place": "Camping Kitowscy, Kaschubei",
       "alt": "Thadeo sitzt mit Kürbis auf der Holzbank am See",
       "width": 900,
       "height": 1200
     },
     {
       "file": "herbstreise-see-kuerbisbank.jpg",
-      "place": "Herbstreise am See",
+      "place": "Camping Kitowscy, Kaschubei",
       "alt": "Ein geschnitzter Kürbis auf der Holzbank im Herbstlaub",
       "width": 900,
       "height": 1200
     },
     {
       "file": "herbstreise-see-picknick.jpg",
-      "place": "Herbstreise am See",
+      "place": "Camping Kitowscy, Kaschubei",
       "alt": "Warmes Essen mit Blick auf das Seeufer",
       "width": 900,
       "height": 1200
@@ -276,43 +276,43 @@
     },
     {
       "file": "schmalspurbahn-thadeo-lok.jpg",
-      "place": "Schmalspurbahn-Museum",
+      "place": "Hajnówka",
       "alt": "Thadeo neben der blauen Diesellok und den Holzwaggons",
       "width": 675,
       "height": 1200
     },
     {
       "file": "schmalspurbahn-dampflok-tx200.jpg",
-      "place": "Schmalspurbahn-Museum",
+      "place": "Hajnówka",
       "alt": "Die schwarze Dampflok Tx-200",
       "width": 1200,
       "height": 675
     },
     {
       "file": "schmalspurbahn-ausflug-mit-dir.jpg",
-      "place": "Schmalspurbahn-Museum",
+      "place": "Hajnówka",
       "alt": "Ein gemeinsames Selfie zwischen alten Baumstämmen",
       "width": 675,
       "height": 1200
     },
     {
       "file": "kletterpark-netz.jpg",
-      "place": "Kletterpark",
+      "place": "Masuren",
       "alt": "Thadeo klettert gesichert am großen Netz",
       "width": 900,
       "height": 1200
     },
     {
       "file": "kletterpark-start.jpg",
-      "place": "Kletterpark",
+      "place": "Masuren",
       "alt": "Thadeo wird vor dem Start in den Kletterpark eingehängt",
       "width": 900,
       "height": 1200
     },
     {
-      "file": "ostsee-eis-am-strand.jpg",
-      "place": "Ostsee",
-      "alt": "Eis am Strand: Thadeo und Mama an der Ostsee",
+      "file": "riviera-eis-am-strand.jpg",
+      "place": "Ligurische Küste",
+      "alt": "Eis am Strand: Thadeo und Mama an der Riviera westlich von Genua",
       "width": 900,
       "height": 1200
     },
@@ -325,21 +325,21 @@
     },
     {
       "file": "festival-mit-dir.jpg",
-      "place": "Sommerfestival",
+      "place": "Pol'and'Rock Festival",
       "alt": "Gemeinsam auf dem Sitzsack beim Festival, Thadeo mit Kängurukrone",
       "width": 900,
       "height": 1200
     },
     {
       "file": "festival-riesenrad.jpg",
-      "place": "Sommerfestival",
+      "place": "Pol'and'Rock Festival",
       "alt": "Mama mit Kängurukrone vor dem Riesenrad",
       "width": 900,
       "height": 1200
     },
     {
       "file": "festival-spielestand.jpg",
-      "place": "Sommerfestival",
+      "place": "Pol'and'Rock Festival",
       "alt": "Thadeo am Spielestand auf dem Festival",
       "width": 900,
       "height": 1200

@@ -6,4 +6,4 @@
 
 Die Auswahl enthält ausschließlich Reise- und Ausflugsbilder. Das Erinnerungsbuch und weitere Familienbilder sind kein Bestandteil dieses Ordners.
 
-Zu den später ergänzten Fotos (Genua-Bustour, Sirmione, Movie Park, Danzig, Herbstreise, Białystok, Schmalspurbahn, Kletterpark, Ostsee, Kołobrzeg, Sommerfestival) liegen Geschichten, Fakten und Sprüche in `content/reisegeschichten.md`. Noch offene Angaben sind dort mit **[offen]** markiert.
+Zu den später ergänzten Fotos (Genua-Bustour, Sirmione, Movie Park, Danzig, Herbstreise, Białystok, Schmalspurbahn, Kletterpark, Ligurische Küste, Kołobrzeg, Pol'and'Rock) liegen Geschichten, Fakten und Sprüche in `content/reisegeschichten.md`. Noch offene Angaben sind dort mit **[offen]** markiert.

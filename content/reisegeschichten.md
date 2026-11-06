@@ -18,15 +18,34 @@ Thadeo die Fensterläden, Palmen und Paläste vorbeiziehen lassen, als wäre die
   Die prächtigen „Palazzi dei Rolli“ sind seit 2006 UNESCO-Welterbe.
 - **Spruch:** „Erst Bobo anschnallen, dann die Welt anschauen.“
 
-## Italien: Pool mit Meerblick und Spiegel-Selfie
-**Fotos:** `italien-pool-meerblick.jpg`, `italien-spiegel-selfie.jpg`
-**[offen]:** genauer Ort (Campingplatz/Unterkunft in Ligurien?)
+## Genua: Spiegel-Selfie im Galata-Meeresmuseum
+**Foto:** `genua-galata-museum-spiegel-selfie.jpg`
+**[offen]:** Nach Erinnerung im Galata-Museum (Bereich Auswanderung) entstanden, noch nicht sicher bestätigt.
 
-Unten blaues Poolwasser, dahinter das Meer mit Segelbooten und Wimpelketten im Wind.
-Thadeo mit Hut und Schwimmnudel ist die Ruhe selbst. Mama hat sich derweil im achteckigen
-Spiegel selbst erwischt.
+Im Galata-Meeresmuseum ging es um Galeeren, Seefahrer und Familien, die mit ihren Koffern
+über das Meer in eine neue Heimat aufgebrochen sind. Zwischen all den Geschichten hat Mama
+sich im achteckigen Spiegel selbst erwischt.
 
-- **Spruch:** „Zwei Arten von Blau – und beide gehören heute uns.“
+- **Gut zu wissen:** Das Galata Museo del Mare liegt im Hafenviertel Darsena und ist eines der
+  größten Meeresmuseen am Mittelmeer. In der Abteilung „Memoria e Migrazioni“ wird erzählt, wie
+  Millionen Menschen von Genua aus nach Amerika ausgewandert sind. Direkt vor dem Museum liegt
+  das U-Boot „Nazario Sauro“, das man besichtigen kann. Es wurde 2002 außer Dienst gestellt.
+  Passt zu Buch 7 (`Buch-7-Auswanderermuseum-Genua.md`).
+- **Spruch:** „Andere Leute machen Fotos von Schiffen. Ich mache eins von mir – mit Rahmen.“
+
+## Ligurische Küste: Pool mit Meerblick und Eis am Strand
+**Fotos:** `italien-pool-meerblick.jpg`, `riviera-eis-am-strand.jpg`
+**[offen]:** genauer Ort an der Küste und ob Pool und Strand am selben Ort waren
+
+Von Genua sind wir die Küste hinunter Richtung Frankreich gefahren, an die Riviera di Ponente.
+Dort gab es blaues Poolwasser mit Blick aufs Meer, Segelboote und Wimpelketten im Wind. Thadeo
+mit Hut und Schwimmnudel war die Ruhe selbst. Am Strand gab es dann Schokoladeneis im Wind,
+und am Ende war nur noch die Waffel übrig.
+
+- **Gut zu wissen:** Die Küste westlich von Genua bis zur französischen Grenze heißt
+  „Riviera di Ponente“, Küste der untergehenden Sonne. Der Teil östlich von Genua ist die
+  „Riviera di Levante“, Küste der aufgehenden Sonne.
+- **Sprüche:** „Zwei Arten von Blau – und beide gehören heute uns.“ / „Das Eis war lecker. Das Gesicht verrät es.“
 
 ## Sirmione am Gardasee: Scaligerburg
 **Fotos:** `sirmione-scaligerburg.jpg`, `sirmione-oldtimer.jpg`
@@ -63,15 +82,17 @@ Löwenmütze vorbei und hat die Werkstatt einmal streng inspiziert. Ergebnis: Di
   den bekanntesten Einkaufszentren der Stadt.
 - **Spruch:** „Ein Löwe unter Wichteln – und keiner hatte Angst.“
 
-## Herbstreise am See
+## Herbstreise: Camping Kitowscy in der Kaschubei
 **Fotos:** `herbstreise-see-thadeo.jpg`, `herbstreise-see-kuerbisbank.jpg`, `herbstreise-see-picknick.jpg`
-**[offen]:** Name und Ort des Sees, was in der Schüssel war
+**[offen]:** Name des Sees, was in der Schüssel war; Schreibweise des Platzes (gefunden als „Camping Kitowscy“, PLZ 83-334)
 
 Nach der Halloween-Veranstaltung waren wir noch ein bisschen unterwegs und haben uns eine
-kleine Herbstreise gegönnt. Am See stand eine alte Holzbank im raschelnden Buchenlaub, darauf
-unser geschnitzter Kürbis und ein Apfel. Ein Tag mit Nebel, ein Tag mit goldener Sonne,
-Schilf im Wind und eine warme Schüssel Essen mit Blick aufs Wasser.
+kleine Herbstreise gegönnt, auf den Campingplatz Kitowscy am See. Dort stand eine alte Holzbank
+im raschelnden Buchenlaub, darauf unser geschnitzter Kürbis und ein Apfel. Ein Tag mit Nebel,
+ein Tag mit goldener Sonne, Schilf im Wind und eine warme Schüssel Essen mit Blick aufs Wasser.
 
+- **Gut zu wissen:** Die Kaschubei westlich von Danzig hat Hunderte Seen und eine eigene
+  Sprache, das Kaschubische.
 - **Spruch:** „Der Kürbis hat die beste Aussicht bekommen. Wir haben nicht gemeckert.“
 
 ## Białystok: Marktplatz und Wasserspiel
@@ -85,33 +106,35 @@ das an diesem heißen Tag über den Platz sprühte.
   das Podlachische Museum untergebracht.
 - **Spruch:** „Andere besichtigen Rathäuser. Thadeo besichtigt Pfützen.“
 
-## Schmalspurbahn-Museum
+## Hajnówka: Die Waldbahn im Land der Wisente
 **Fotos:** `schmalspurbahn-thadeo-lok.jpg`, `schmalspurbahn-dampflok-tx200.jpg`, `schmalspurbahn-ausflug-mit-dir.jpg`
-**[offen]:** Name und Ort des Museums; ob das Selfie am selben Tag entstand (gleiche Mütze, gleiches Hemd)
+**[offen]:** ob das Selfie am selben Tag entstand (gleiche Mütze, gleiches Hemd)
 
 Mit Schiebermütze und Lederhose sah Thadeo aus wie der jüngste Lokführer der Welt.
-Neben ihm die blaue Diesellok V10C und die Holzwaggons, ein paar Gleise weiter die
-schwarze Dampflok Tx-200 mit ihren roten Rädern.
+Neben ihm die blaue Diesellok V10C und die Holzwaggons, ein paar Gleise weiter die schwarze
+Dampflok Tx-200 mit ihren roten Rädern. Von Hajnówka aus fährt das Bähnchen durch den
+Białowieża-Urwald bis nach Topiło, ganz nah an der Grenze zu Belarus.
 
+- **Gut zu wissen (Geschichte zum Lernen):** Im Ersten Weltkrieg besetzte die deutsche Armee,
+  die damals vom Königreich Preußen geprägt war, den Białowieża-Urwald. Um das wertvolle Holz
+  aus dem Wald zu holen, bauten die Besatzer ein ganzes Netz aus schmalen Waldbahnen.
+  Von diesem Netz ist heute nur noch die Strecke Hajnówka–Topiło übrig, rund 11 bis 12 km lang.
+  Sie fährt heute als Ausflugsbahn, meist von Mai bis Ende September.
+- **Die Wisente:** Der Białowieża-Urwald ist die Heimat der Wisente, Europas größter
+  Landtiere. Durch Krieg und Wilderei waren sie hier um 1919 in freier Wildbahn ausgestorben.
+  Ab 1929 wurden sie mit Tieren aus Zoos wieder angesiedelt. Heute leben im Urwald wieder
+  Hunderte Wisente, die größte freilebende Herde der Welt.
 - **Spruch:** „Fahrkarte? Brauch ich nicht. Ich bin der Chef hier.“
+- **Quellen zum Nachprüfen:** hajnowka.pl (Turystyczna kolejka wąskotorowa), Nadleśnictwo Hajnówka.
 
 ## Kletterpark
 **Fotos:** `kletterpark-netz.jpg`, `kletterpark-start.jpg`
-**[offen]:** Name und Ort des Kletterparks
+**Ort:** Masuren. **[offen]:** Name des Kletterparks
 
-Helm auf, Gurt an, einhängen und los: Hoch über dem Waldboden ging es über Holzbrücken
+Helm auf, Gurt an, einhängen und los: Mitten in den Wäldern der Masuren, hoch über dem Waldboden ging es über Holzbrücken
 und am großen grünen Netz entlang. Unten wurde gezittert, oben wurde gegrinst.
 
 - **Spruch:** „Mama hält die Luft an, Thadeo hält sich am Netz fest.“
-
-## Ostsee: Eis am Strand
-**Foto:** `ostsee-eis-am-strand.jpg`
-**[offen]:** genauer Strand
-
-Wind in den Haaren, Sand an den Füßen und Schokoladeneis überall im Gesicht. Die Waffel
-war am Ende das Einzige, was übrig blieb.
-
-- **Spruch:** „Das Eis war lecker. Das Gesicht verrät es.“
 
 ## Kołobrzeg: Der Leuchtturm
 **Foto:** `kolobrzeg-leuchtturm.jpg`
@@ -124,13 +147,15 @@ winken die Besucher, dahinter rollen die Wellen der Ostsee an.
   alten Festungsanlage und gehört zur „Route der Leuchttürme“ an der westpommerschen Küste.
 - **Spruch:** „26 Meter hoch – und trotzdem hat er Thadeo nicht übersehen.“
 
-## Sommerfestival
+## Pol'and'Rock Festival
 **Fotos:** `festival-mit-dir.jpg`, `festival-riesenrad.jpg`, `festival-spielestand.jpg`
-**[offen]:** Name des Festivals (vermutlich Pol'and'Rock wegen Allegro-Riesenrad und Westpommern-Zelt?)
 **Hinweis:** Die Gruppen-Selfies mit anderen Personen wurden bewusst nicht übernommen.
 
 Sitzsäcke im Gras, Discokugeln im Wind, eine Kängurukrone mit Sonnenbrille auf dem Kopf,
 und am Abend das große Riesenrad im Sonnenuntergang. Am Spielestand hat Thadeo neue Spiele
 ausprobiert, als hätte er nie etwas anderes gemacht.
 
+- **Gut zu wissen:** Pol'and'Rock ist ein kostenloses Festival, das 1995 als „Przystanek Woodstock“
+  begann. Organisiert wird es von der Stiftung „Wielka Orkiestra Świątecznej Pomocy“ (Großes
+  Orchester der Weihnachtshilfe) rund um Jurek Owsiak. Es gehört zu den größten Open-Air-Festivals Europas.
 - **Spruch:** „Krone auf, Sonnenbrille an – heute regieren wir das Festival.“
